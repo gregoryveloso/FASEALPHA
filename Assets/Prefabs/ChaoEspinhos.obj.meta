@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 2384b9bf7a71dc043afcfc25e9c4715d
+timeCreated: 1527815648
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Espinho_da_Armadilha33
+    100004: Espinho_da_Armadilha34
+    100006: Espinho_da_Armadilha35
+    100008: Espinho_da_Armadilha36
+    100010: Espinho_da_Armadilha37
+    100012: Espinho_da_Armadilha38
+    100014: Espinho_da_Armadilha39
+    100016: Espinho_da_Armadilha40
+    100018: Espinho_da_Armadilha41
+    100020: Espinho_da_Armadilha42
+    100022: Espinho_da_Armadilha43
+    100024: Espinho_da_Armadilha44
+    100026: Espinho_da_Armadilha45
+    100028: Espinho_da_Armadilha46
+    100030: Espinho_da_Armadilha47
+    100032: Espinho_da_Armadilha48
+    100034: Parede_da_Armadilha_Espinho_da_Armadilha32
+    400000: //RootNode
+    400002: Espinho_da_Armadilha33
+    400004: Espinho_da_Armadilha34
+    400006: Espinho_da_Armadilha35
+    400008: Espinho_da_Armadilha36
+    400010: Espinho_da_Armadilha37
+    400012: Espinho_da_Armadilha38
+    400014: Espinho_da_Armadilha39
+    400016: Espinho_da_Armadilha40
+    400018: Espinho_da_Armadilha41
+    400020: Espinho_da_Armadilha42
+    400022: Espinho_da_Armadilha43
+    400024: Espinho_da_Armadilha44
+    400026: Espinho_da_Armadilha45
+    400028: Espinho_da_Armadilha46
+    400030: Espinho_da_Armadilha47
+    400032: Espinho_da_Armadilha48
+    400034: Parede_da_Armadilha_Espinho_da_Armadilha32
+    2100000: Espinho_da_Armadilha35SG
+    2100002: Espinho_da_Armadilha35SG1
+    2100004: Parede_da_ArmadilhaSG
+    2300000: Espinho_da_Armadilha33
+    2300002: Espinho_da_Armadilha34
+    2300004: Espinho_da_Armadilha35
+    2300006: Espinho_da_Armadilha36
+    2300008: Espinho_da_Armadilha37
+    2300010: Espinho_da_Armadilha38
+    2300012: Espinho_da_Armadilha39
+    2300014: Espinho_da_Armadilha40
+    2300016: Espinho_da_Armadilha41
+    2300018: Espinho_da_Armadilha42
+    2300020: Espinho_da_Armadilha43
+    2300022: Espinho_da_Armadilha44
+    2300024: Espinho_da_Armadilha45
+    2300026: Espinho_da_Armadilha46
+    2300028: Espinho_da_Armadilha47
+    2300030: Espinho_da_Armadilha48
+    2300032: Parede_da_Armadilha_Espinho_da_Armadilha32
+    3300000: Espinho_da_Armadilha33
+    3300002: Espinho_da_Armadilha34
+    3300004: Espinho_da_Armadilha35
+    3300006: Espinho_da_Armadilha36
+    3300008: Espinho_da_Armadilha37
+    3300010: Espinho_da_Armadilha38
+    3300012: Espinho_da_Armadilha39
+    3300014: Espinho_da_Armadilha40
+    3300016: Espinho_da_Armadilha41
+    3300018: Espinho_da_Armadilha42
+    3300020: Espinho_da_Armadilha43
+    3300022: Espinho_da_Armadilha44
+    3300024: Espinho_da_Armadilha45
+    3300026: Espinho_da_Armadilha46
+    3300028: Espinho_da_Armadilha47
+    3300030: Espinho_da_Armadilha48
+    3300032: Parede_da_Armadilha_Espinho_da_Armadilha32
+    4300000: Espinho_da_Armadilha33
+    4300002: Espinho_da_Armadilha34
+    4300004: Espinho_da_Armadilha35
+    4300006: Espinho_da_Armadilha36
+    4300008: Espinho_da_Armadilha37
+    4300010: Espinho_da_Armadilha38
+    4300012: Espinho_da_Armadilha39
+    4300014: Espinho_da_Armadilha40
+    4300016: Espinho_da_Armadilha41
+    4300018: Espinho_da_Armadilha42
+    4300020: Espinho_da_Armadilha43
+    4300022: Espinho_da_Armadilha44
+    4300024: Espinho_da_Armadilha45
+    4300026: Espinho_da_Armadilha46
+    4300028: Espinho_da_Armadilha47
+    4300030: Espinho_da_Armadilha48
+    4300032: Parede_da_Armadilha_Espinho_da_Armadilha32
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

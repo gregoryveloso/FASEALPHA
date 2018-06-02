@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: e0bf9bdef4bbd3b419971ffd4af414e4
+timeCreated: 1524373458
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Mesa_Direita
+    100002: Mesa_Esquerda
+    100004: Mesa_Principal
+    100006: pCube3
+    100008: //RootNode
+    100010: Tela_Direita
+    100012: Tela_Esquerda
+    100014: "Tel\xE3o_Principal"
+    100016: Paredes
+    400000: Mesa_Direita
+    400002: Mesa_Esquerda
+    400004: Mesa_Principal
+    400006: pCube3
+    400008: //RootNode
+    400010: Tela_Direita
+    400012: Tela_Esquerda
+    400014: "Tel\xE3o_Principal"
+    400016: Paredes
+    2100000: Borda
+    2100002: TEXTURE
+    2100004: Mesa_Canto_TEX
+    2100006: Parede_TEX
+    2100008: Borda_TV_TEX
+    2100010: Tela_Principal_TEX
+    2100012: Mesa_TEX
+    2300000: Mesa_Direita
+    2300002: Mesa_Esquerda
+    2300004: Mesa_Principal
+    2300006: pCube3
+    2300008: Tela_Direita
+    2300010: Tela_Esquerda
+    2300012: "Tel\xE3o_Principal"
+    2300014: Paredes
+    3300000: Mesa_Direita
+    3300002: Mesa_Esquerda
+    3300004: Mesa_Principal
+    3300006: pCube3
+    3300008: Tela_Direita
+    3300010: Tela_Esquerda
+    3300012: "Tel\xE3o_Principal"
+    3300014: Paredes
+    4300000: "Tel\xE3o_Principal"
+    4300002: Mesa_Principal
+    4300004: Tela_Esquerda
+    4300006: Tela_Direita
+    4300008: Mesa_Direita
+    4300010: Mesa_Esquerda
+    4300012: pCube3
+    4300014: Paredes
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Borda_TV_TEX
+    second: {fileID: 2100000, guid: 8e1e88d134589ce4a84afd9523140d57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesa_TEX
+    second: {fileID: 2100000, guid: 6b1d416b115255042b7d0c50f87ae72a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parede_TEX
+    second: {fileID: 2100000, guid: 213df9129d91b8b4580749f71f0a93be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tela_Principal_TEX
+    second: {fileID: 2100000, guid: 4089be71fb50f9e409ebef7e298f0eff, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

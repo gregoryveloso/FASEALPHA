@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 9c0631cedc7e5a14ebca4a6f996cc20c
+timeCreated: 1527355747
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armadilha
+    100002: //RootNode
+    100004: Espinho_da_Armadilha
+    100006: Espinho_da_Armadilha1
+    100008: Espinho_da_Armadilha10
+    100010: Espinho_da_Armadilha11
+    100012: Espinho_da_Armadilha12
+    100014: Espinho_da_Armadilha13
+    100016: Espinho_da_Armadilha14
+    100018: Espinho_da_Armadilha15
+    100020: Espinho_da_Armadilha2
+    100022: Espinho_da_Armadilha3
+    100024: Espinho_da_Armadilha4
+    100026: Espinho_da_Armadilha5
+    100028: Espinho_da_Armadilha6
+    100030: Espinho_da_Armadilha7
+    100032: Espinho_da_Armadilha8
+    100034: Espinho_da_Armadilha9
+    400000: Armadilha
+    400002: //RootNode
+    400004: Espinho_da_Armadilha
+    400006: Espinho_da_Armadilha1
+    400008: Espinho_da_Armadilha10
+    400010: Espinho_da_Armadilha11
+    400012: Espinho_da_Armadilha12
+    400014: Espinho_da_Armadilha13
+    400016: Espinho_da_Armadilha14
+    400018: Espinho_da_Armadilha15
+    400020: Espinho_da_Armadilha2
+    400022: Espinho_da_Armadilha3
+    400024: Espinho_da_Armadilha4
+    400026: Espinho_da_Armadilha5
+    400028: Espinho_da_Armadilha6
+    400030: Espinho_da_Armadilha7
+    400032: Espinho_da_Armadilha8
+    400034: Espinho_da_Armadilha9
+    2100000: Armadilha_Base
+    2100002: SuportedoEspinho_TEX
+    2100004: Metal_Espinhos
+    2300000: Armadilha
+    2300002: Espinho_da_Armadilha
+    2300004: Espinho_da_Armadilha1
+    2300006: Espinho_da_Armadilha10
+    2300008: Espinho_da_Armadilha11
+    2300010: Espinho_da_Armadilha12
+    2300012: Espinho_da_Armadilha13
+    2300014: Espinho_da_Armadilha14
+    2300016: Espinho_da_Armadilha15
+    2300018: Espinho_da_Armadilha2
+    2300020: Espinho_da_Armadilha3
+    2300022: Espinho_da_Armadilha4
+    2300024: Espinho_da_Armadilha5
+    2300026: Espinho_da_Armadilha6
+    2300028: Espinho_da_Armadilha7
+    2300030: Espinho_da_Armadilha8
+    2300032: Espinho_da_Armadilha9
+    3300000: Armadilha
+    3300002: Espinho_da_Armadilha
+    3300004: Espinho_da_Armadilha1
+    3300006: Espinho_da_Armadilha10
+    3300008: Espinho_da_Armadilha11
+    3300010: Espinho_da_Armadilha12
+    3300012: Espinho_da_Armadilha13
+    3300014: Espinho_da_Armadilha14
+    3300016: Espinho_da_Armadilha15
+    3300018: Espinho_da_Armadilha2
+    3300020: Espinho_da_Armadilha3
+    3300022: Espinho_da_Armadilha4
+    3300024: Espinho_da_Armadilha5
+    3300026: Espinho_da_Armadilha6
+    3300028: Espinho_da_Armadilha7
+    3300030: Espinho_da_Armadilha8
+    3300032: Espinho_da_Armadilha9
+    4300000: Armadilha
+    4300002: Espinho_da_Armadilha
+    4300004: Espinho_da_Armadilha1
+    4300006: Espinho_da_Armadilha2
+    4300008: Espinho_da_Armadilha3
+    4300010: Espinho_da_Armadilha4
+    4300012: Espinho_da_Armadilha5
+    4300014: Espinho_da_Armadilha6
+    4300016: Espinho_da_Armadilha7
+    4300018: Espinho_da_Armadilha8
+    4300020: Espinho_da_Armadilha9
+    4300022: Espinho_da_Armadilha10
+    4300024: Espinho_da_Armadilha11
+    4300026: Espinho_da_Armadilha12
+    4300028: Espinho_da_Armadilha13
+    4300030: Espinho_da_Armadilha14
+    4300032: Espinho_da_Armadilha15
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
